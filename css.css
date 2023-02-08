@@ -12,13 +12,14 @@
     padding: 0;
 }
 
-/* html{
-    /* background-image: url(../imagens/background-metalico.jpg); */
+html{
+    background-image: url(imagens/trianglify-lowres.png);
     /* background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: 100% 100%; 
-} */
+    background-size: 100% 100%; */
+
+}
 
 body{
     margin: 0 0 10px 0;
