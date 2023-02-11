@@ -105,11 +105,7 @@ footer{
     background-color: black;
     color: white;
     padding: 30px;
-    position: relative;
-    top: 90%;
-    min-width: 500px;
-    max-width: 1000px;
-    
+    margin: 10px 0 0 0; 
 }
 
 /* .menu a#historia:hover{
