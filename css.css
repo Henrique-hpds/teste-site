@@ -113,6 +113,10 @@ main p{
     margin: 0 0 5px 0;
 }
 
+form h1{
+    font-size: medium;
+}
+
 footer{
     background-color: black;
     color: white;
